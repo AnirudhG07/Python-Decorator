@@ -14,6 +14,6 @@ In Object Oriented Programming, we mainly see the usage of `@property`. Refer pr
 
 # args and kwargs
 You must have seen the usage of *args and **kwargs in little advanced python coding, for example while coding AI models,etc. In the above file rleated to args and kwargs we see what these are and how they play a very convenient role
-in python coding
+in python coding.
 
 
